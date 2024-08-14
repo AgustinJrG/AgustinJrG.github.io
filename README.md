@@ -9,6 +9,7 @@
 
 ## Projects
 ### Zillow Houston Zip Code House Market
+Analyzed House Value for within each of Houston's Zip Codes.
 [Link](https://www.google.com/)
 
 ### Personal Finance/Credit Card Tracker
