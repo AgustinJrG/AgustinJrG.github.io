@@ -8,8 +8,8 @@
 - Google Data Analytics Certificate
 
 ## Projects
-###Zillow Houston Zip Code House Market
+### Zillow Houston Zip Code House Market
 [Link](https://www.google.com/)
 
-###Personal Finance/Credit Card Tracker
+### Personal Finance/Credit Card Tracker
 [Project Link](https://www.youtube.com/)
