@@ -9,6 +9,6 @@
 
 ### Projects
 - Zillow Houston Zip Code House Market
-  Link [https://www.google.com/]
-  Publication [https://www.youtube.com/]
+  Link(https://www.google.com/)
+  Publication(https://www.youtube.com/)
 - Personal Finance/Credit Card Tracker
